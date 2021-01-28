@@ -1,0 +1,43 @@
+/New Unity Project 1/.vs
+/New Unity Project 1/Library
+/New Unity Project 1/obj
+/New Unity Project 1/汉堡的第一个游戏原型_Data
+/New Unity Project 1/Assembly-CSharp.csproj
+/New Unity Project 1/Assembly-CSharp-Editor.csproj
+/New Unity Project 1/Assembly-CSharp-Editor-firstpass.csproj
+/New Unity Project 1/Assembly-CSharp-firstpass.csproj
+/New Unity Project 1/New Unity Project 1.csproj
+/New Unity Project 1/New Unity Project 1.Editor.csproj
+/New Unity Project 1/New Unity Project 1.Editor.Plugins.csproj
+/New Unity Project 1/New Unity Project 1.Plugins.csproj
+/New Unity Project 1/New Unity Project 1.sln
+/New Unity Project 1/New Unity Project 1.userprefs
+/New Unity Project 1/New Unity Project 1.zip
+/New Unity Project 1/汉堡的第一个游戏原型.exe
+/New Unity Project 1/Temp
+/New Unity Project 1/*.exe
+/New Unity Project 1/Assets/Shader/alpha.shader
+bin
+obj
+.vs
+VoxelFrameRemake2020/Library/
+*.meta
+*.asset
+VoxelFrameRemake2020/Temp/
+testEntitas/Library/metadata/00/0000000000000000b100000000000000.info
+testEntitas/Library/metadata/00/00000000000000002000000000000000.info
+testEntitas/Library/metadata/
+testEntitas/Temp/
+testEntitas/Library/ShaderCache/
+target/
+client/old/unity/VoxelFrameRemake2020/Library/metadata/
+client/old/unity/VoxelFrameRemake2020/Library/ShaderCache/
+client/old/unity/VoxelFrameRemake2020/Library/PackageCache/
+client/old/unity/VoxelFrameRemake2020/Library/ChinaEditorCache/
+client/old/unity/VoxelFrameRemake2020/Library/
+client/old/unity/UnityOfficialECS/Library/
+client/old/unity/testEntitas/Library/
+client/old/unity/UnityOfficialECS/Temp/
+client/old/unity/New Unity Project 1/Library/
+client/old/unity/mlgb/Library/
+client/old/unity/VoxelFrameRemake2020/Temp/
